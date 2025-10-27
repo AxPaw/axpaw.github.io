@@ -190,6 +190,7 @@ footer {
 
 
 
+
 table {
   width: 100%;
   max-width: 544px;
@@ -431,9 +432,12 @@ text-align: center;
 /* map */
 .location {
   display: flex;
-  gap: 2rem;
-  max-width: 800px;
+  gap: 1rem;
+  max-width: 1200px;
+  margin: 0 auto;
 }
+  
+  
 
 .info {
   width: 32%;
